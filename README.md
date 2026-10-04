@@ -1,5 +1,6 @@
 # Shizuku-Compat
 This compatible build permits older software to continue accessing via legacy APIs.**Because it uses legacy start sh file.**
+
 该兼容版本允许旧版软件通过旧版API继续正常访问，**因为保留了旧版sh格式的启动文件**。
 
 **This repository has been created as a backup, in case the original repository gets removed or goes missing.**
